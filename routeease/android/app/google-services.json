@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321925206785",
+    "project_id": "routeease-141ac",
+    "storage_bucket": "routeease-141ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321925206785:android:3efe2335fc9321630f4100",
+        "android_client_info": {
+          "package_name": "com.example.routeease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibME5bdjQKYRJQSCNuBg6PRYHtnom0PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
